@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Hopeportfolio.git/static/css/main.80ea8a2c.css",
+    "main.js": "/Hopeportfolio.git/static/js/main.7c04eb6d.js",
+    "static/media/image4.GIF": "/Hopeportfolio.git/static/media/image4.bc01e736d5a8a236e7f7.GIF",
+    "static/media/image.GIF": "/Hopeportfolio.git/static/media/image.550ccd3131074ff60fe0.GIF",
+    "static/media/image2.png": "/Hopeportfolio.git/static/media/image2.49988459bbfba4acd194.png",
+    "static/media/image3.jpg": "/Hopeportfolio.git/static/media/image3.ce4970afaacd908423f4.jpg",
+    "static/media/image5.webp": "/Hopeportfolio.git/static/media/image5.6e7ab088330907b712e1.webp",
+    "index.html": "/Hopeportfolio.git/index.html",
+    "main.80ea8a2c.css.map": "/Hopeportfolio.git/static/css/main.80ea8a2c.css.map",
+    "main.7c04eb6d.js.map": "/Hopeportfolio.git/static/js/main.7c04eb6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80ea8a2c.css",
+    "static/js/main.7c04eb6d.js"
+  ]
+}
